@@ -43,14 +43,42 @@ Ha a felbontás nem nyomdai minőségű (300 dpi), rajzoljuk újra, akár vektor
 Ha a dolgozatban magyar nyelven említünk egy fogalmat, a képen is úgy szerepeljen.
 Képekre célszerű kereszthivatkozással hivatkozni. Így elkerülhető, hogy új kép beszúrása esetén átszámozódjanak a képeink.
 
+### Logók
+2019-benaz egytem új arcualtot vezetett be (https://eszk.sze.hu/szearculat). Értelemszerűen a diplomamunka / szakdolgozat is az új arculatnak megfelelő kinézet az elvárt.
+Az új egyetemi logó:
+![](img\infologo_2020_university.svg)
+Az új tanszéki logó:
+![](img\infologo_2020_department.svg)
+
 ## Képletek
 Használjunk képletszerkesztőt.
+
+![](img\equation01.png)
+![](img\equation02.svg)
+
 
 ## Forráskódok
 Szintaxis kiemelés és monospaced betűtípus (ajánlott Consolas, kerülendő Courier New mert alig van benne különbség a kerek és a kapcsos zárójel karakterek között), például:
 
 
 Kódrészleteket, sose képként, hanem szintaxis kiemeléssel másoljunk be. Itt érdemes lehet használni vagy a vs code-ot, vagy a notepad++ nppexport szintaxis kiemelőjét (esetleg valamilyen online módszert, mint a pastebin-t).
+
+Például:
+``` cpp
+void CoordinateTransition::Init() {}
+
+void CoordinateTransition::LatLonToUTMXY(const double lat, const double lon, double &utm_x, double &utm_y)
+{
+  MathLanLonToXY(DegToRad(lat), DegToRad(lon), UTMCentralMeridian(lon), utm_x,utm_y);
+  utm_x = utm_x * kUTMScaleFactor + kUTMXCompensation;
+  utm_y = utm_y * kUTMScaleFactor;
+  if (utm_y < 0.0)
+  {
+    utm_y += kUTMYCompensation;
+  }
+}
+```
+![](img\language01.png)
 
 ## Hivatkozásjegyzék
 https://support.office.com/hu-hu/article/irodalomjegyzék-idézetek-és-hivatkozások-létrehozáa-17686589-4824-4940-9c69-342c289fa2a5
@@ -60,7 +88,7 @@ https://support.office.com/en-us/article/add-citations-in-a-word-document-ab9322
 - Generáljuk, IEEE formátum.
 - A források túlnyomórészt könyvek / azonosítóval (ISBN, DOI, ISSN) ellátott források legyenek "sima" internetes források helyett.
 - Ajánlott pl. itt forrásokat keresni: 
-  - http://www.eisz.hu/ (Egyetemi IP-ről ingyenes források)
+  - http://eisz.mtak.hu/ (Egyetemi IP-ről ingyenes források, Elektronikus Információszolgáltatás Nemzeti Program)
   - http://www.elsevier.com/
   - http://ieeexplore.ieee.org/
   - http://www.sciencedirect.com/
