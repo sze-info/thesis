@@ -46,15 +46,15 @@ Képekre célszerű kereszthivatkozással hivatkozni. Így elkerülhető, hogy �
 ### Logók
 2019-benaz egytem új arcualtot vezetett be (https://eszk.sze.hu/szearculat). Értelemszerűen a diplomamunka / szakdolgozat is az új arculatnak megfelelő kinézet az elvárt.
 Az új egyetemi logó:
-![](img\infologo_2020_university.svg)
+![](img/infologo_2020_university.svg)
 Az új tanszéki logó:
-![](img\infologo_2020_department.svg)
+![](img/infologo_2020_department.svg)
 
 ## Képletek
 Használjunk képletszerkesztőt.
 
-![](img\equation01.png)
-![](img\equation02.svg)
+![](img/equation01.png)
+![](img/equation02.svg)
 
 
 ## Forráskódok
@@ -78,7 +78,7 @@ void CoordinateTransition::LatLonToUTMXY(const double lat, const double lon, dou
   }
 }
 ```
-![](img\language01.png)
+![](img/language01.png)
 
 ## Hivatkozásjegyzék
 https://support.office.com/hu-hu/article/irodalomjegyzék-idézetek-és-hivatkozások-létrehozáa-17686589-4824-4940-9c69-342c289fa2a5
