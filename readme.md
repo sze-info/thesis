@@ -58,7 +58,7 @@ Használjunk képletszerkesztőt.
 
 
 ## Forráskódok
-Szintaxis kiemelés és monospaced betűtípus (ajánlott Consolas, kerülendő Courier New mert alig van benne különbség a kerek és a kapcsos zárójel karakterek között), például:
+Szintaxis kiemelés és monospaced betűtípus (ajánlott _Consolas_, kerülendő ~Courier New~ mert alig van benne különbség a kerek és a kapcsos zárójel karakterek között), például:
 
 
 Kódrészleteket, sose képként, hanem szintaxis kiemeléssel másoljunk be. Itt érdemes lehet használni vagy a vs code-ot, vagy a notepad++ nppexport szintaxis kiemelőjét (esetleg valamilyen online módszert, mint a pastebin-t).
