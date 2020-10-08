@@ -103,9 +103,9 @@ https://support.office.com/en-us/article/add-citations-in-a-word-document-ab9322
 - A rendszerben tárolt szakdolgozatok kizárólag helyben használhatók.
 
 # Első félév
-- Szakdolgozatkészítés I. és Diplomatervezés I. `NGB_IN092_1` és `NGB_IN093_1`
+- Szakdolgozatkészítés I., Szakdolgozati konzultáció I. és Diplomatervezés I. `NGB_IN092_1`, `GKLB_INTM096` és `NGB_IN093_1`
 - A választott témakör körülhatárolása, általános tájékozódás
-- A program specifikálása (pl. UML diagramok készítése is)
+- A program specifikálása (pl. UML / SysML diagramok készítése is)
 - A szükséges technikák, technológiák elsajátítása (eddig ismeretlen SDK, API, programozási nyelv megismerése)
 - Szakirodalmi anyagok gyűjtése, feltárása, a vonatkozó szakirodalom körének meghatározása
 - A rendelkezésre álló anyagok rendszerezése, feldolgozása
@@ -113,11 +113,11 @@ https://support.office.com/en-us/article/add-citations-in-a-word-document-ab9322
 - Nagyjából 25 oldalas dokumentum, aminek tartalma később felhasználható a szakdolgozatban/diplomamunkában
 
 # Második félév
-- Szakdolgozatkészítés II. és Diplomatervezés II. `NGB_IN092_2` és `NGB_IN093_2`
+- Szakdolgozatkészítés II., Szakdolgozati konzultáció II. és Diplomatervezés II. `NGB_IN092_2`, `GKLB_INTM097` és `NGB_IN093_2`
 - Programírás és tesztelés
 - A dolgozat végső megfogalmazása, elkészítése
 - A leírtak pontosítása, formai megoldások véglegesítése
-- Az dolgozat elektronikus formában történő rögzítése, nyomtatása, köttetése, leadása
+- A dolgozat elektronikus formában történő rögzítése, nyomtatása, köttetése, leadása
 
 # Linkek
 - Informatika Tanszék honlapja: http://it.sze.hu/
