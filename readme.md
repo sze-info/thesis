@@ -102,6 +102,11 @@ https://support.office.com/en-us/article/add-citations-in-a-word-document-ab9322
 - Egyetemi Könyvtárban, az olvasótermi számítógépeken hozzáférhetők a könyvtár által állományba vett elektronikus szakdolgozatok. Ezeken a számítógépeken kizárólag a SzeRep online dokumentumtárának megtekintésére, és katalógushasználatra van lehetőség. A gyűjteményből elérhetők a Széchenyi István Egyetem diplomaleadó rendszerébe 2015-től feltöltött szakdolgozatok, az elektronikus tananyagok, továbbá a doktori iskolákban készített PhD-disszertációk.
 - A rendszerben tárolt szakdolgozatok kizárólag helyben használhatók.
 
+Példa a hivatkozásokra:
+
+<img src="img/references01.svg" width=600/>
+
+
 # Első félév
 - Szakdolgozatkészítés I., Szakdolgozati konzultáció I. és Diplomatervezés I. `NGB_IN092_1`, `GKLB_INTM096` és `NGB_IN093_1`
 - A választott témakör körülhatárolása, általános tájékozódás
