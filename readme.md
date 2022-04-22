@@ -121,8 +121,9 @@ Példa a hivatkozásokra:
 - Szakdolgozatkészítés II., Szakdolgozati konzultáció II. és Diplomatervezés II. `NGB_IN092_2`, `GKLB_INTM097` és `NGB_IN093_2`
 - Programírás és tesztelés
 - A dolgozat végső megfogalmazása, elkészítése
-- A leírtak pontosítása, formai megoldások véglegesítése
+- A leírtak pontosítása, formai megoldások véglegesítése, a tanszéki követelmények maradéktalan betartása
 - A dolgozat elektronikus formában történő rögzítése, nyomtatása, köttetése, leadása
+- A dolgozat terjedelme (melléklet nélkül) 50–70 oldal. *(2022-es információ, a hivatalos mindig a tanszéki honlapon)*
 
 # Linkek
 - Informatika Tanszék honlapja: http://it.sze.hu/
