@@ -32,8 +32,8 @@ A konzulenssel történő kapcsolatfelvétel és rendszeres kapcsolattartás a _
 # Stilisztikai megkötések
 ## Helyesírás
 Hasznos oldalak: 
-- http://helyesiras.mta.hu/
-- http://hu.wikipedia.org/wiki/Wikipédia:Helyesírás/Gyakori_elírások_listája
+- [helyesiras.mta.hu](http://helyesiras.mta.hu/)
+- [hu.wikipedia.org/wiki/Wikipédia:Helyesírás/Gyakori_elírások_listája](http://hu.wikipedia.org/wiki/Wikipédia:Helyesírás/Gyakori_elírások_listája)
 
 Figyeljünk az informatikában nem egységes rövidítésekre, betűszavakra:
  - JSON, C++, ZigBee, JavaScript, TCP/IP, GitHub, MySQL, MSSQL, Ruby on Rails, NumPy
@@ -81,24 +81,23 @@ void CoordinateTransition::LatLonToUTMXY(const double lat, const double lon, dou
 ![](img/language01.png)
 
 ## Hivatkozásjegyzék
-https://support.office.com/hu-hu/article/irodalomjegyzék-idézetek-és-hivatkozások-létrehozáa-17686589-4824-4940-9c69-342c289fa2a5
-
-https://support.office.com/en-us/article/add-citations-in-a-word-document-ab9322bb-a8d3-47f4-80c8-63c06779f127
 
 - Generáljuk, IEEE formátum.
+  - [support.office.com magyarul](https://support.office.com/hu-hu/article/irodalomjegyzék-idézetek-és-hivatkozások-létrehozáa-17686589-4824-4940-9c69-342c289fa2a5)
+  - [support.office.com angolul](https://support.office.com/en-us/article/add-citations-in-a-word-document-ab9322bb-a8d3-47f4-80c8-63c06779f127)
 - A források túlnyomórészt könyvek / azonosítóval (ISBN, DOI, ISSN) ellátott források legyenek "sima" internetes források helyett.
 - Ajánlott pl. itt forrásokat keresni: 
-  - http://eisz.mtak.hu/ (Egyetemi IP-ről ingyenes források, Elektronikus Információszolgáltatás Nemzeti Program)
-  - http://www.elsevier.com/
-  - http://ieeexplore.ieee.org/
-  - http://www.sciencedirect.com/
-  - http://www.sciencemag.org/
+  - [eisz.mtak.hu](http://eisz.mtak.hu/) (Egyetemi IP-ről ingyenes források, Elektronikus Információszolgáltatás Nemzeti Program)
+  - [elsevier.com](http://www.elsevier.com/)
+  - [ieeexplore.ieee.org](http://ieeexplore.ieee.org/)
+  - [sciencedirect.com](http://www.sciencedirect.com/)
+  - [sciencemag.org](http://www.sciencemag.org/)
 - Megkülönböztetünk szó szerinti idézést és parafrázis, vagyis egy gondolat átfogalmazását. Az elsőt tegyük idézőjel közé, de mindkettőt hivatkozzuk.
 - A legfontosabb kitétel a munka eredetisége és önállósága. Nem megengedett, sőt, súlyosan szankcionált bármely korábban készült szakdolgozat átvétele, másolása, a hivatkozás nélküli átvételeket tartalmazó szakdolgozat beadása! _Mindez a szakdolgozat elutasítását és a záróvizsgára bocsátás megtagadását vonja maga után!_
 - A hivatkozások ajánlott száma legalább 20, legfeljebb 50 db. Továbbá erősen ajánlott a túlnyomórészt nyomtatott vagy valamilyen azonosítóval (ISBN, DOI, ISSN) ellátott források használata. Ezek ugyanis könnyebben visszakereshetők, védhetők, mint az internetes források. Az internetes forrásokkal a probléma, hogy kis túlzással naponta változhatnak és nincs garancia arra, hogy később is fellelhető lesz az adott változatuk.
 - Hasznos lehet a régebbi szakdolgozatokat átnézni, pl. ötletet meríteni. Ezeket a következő címeken lehetséges elérni:
-  - http://szakdolgozat.szerep.sze.hu
-  - http://lib.sze.hu
+  - [szakdolgozat.szerep.sze.hu](http://szakdolgozat.szerep.sze.hu)
+  - [lib.sze.hu](https://lib.sze.hu/)
 - Egyetemi Könyvtárban, az olvasótermi számítógépeken hozzáférhetők a könyvtár által állományba vett elektronikus szakdolgozatok. Ezeken a számítógépeken kizárólag a SzeRep online dokumentumtárának megtekintésére, és katalógushasználatra van lehetőség. A gyűjteményből elérhetők a Széchenyi István Egyetem diplomaleadó rendszerébe 2015-től feltöltött szakdolgozatok, az elektronikus tananyagok, továbbá a doktori iskolákban készített PhD-disszertációk.
 - A rendszerben tárolt szakdolgozatok kizárólag helyben használhatók.
 
@@ -112,19 +111,20 @@ Példa a hivatkozásokra:
 - A választott témakör körülhatárolása, általános tájékozódás
 - A program specifikálása (pl. UML / SysML diagramok készítése is)
 - A szükséges technikák, technológiák elsajátítása (eddig ismeretlen SDK, API, programozási nyelv megismerése)
-- Szakirodalmi anyagok gyűjtése, feltárása, a vonatkozó szakirodalom körének meghatározása
+- Szakirodalmi anyagok gyűjtése, feltárása, a vonatkozó szakirodalom körének meghatározása, ez az első féléves dokumentum irodalomjegyzékébe kerüljön
 - A rendelkezésre álló anyagok rendszerezése, feldolgozása
-- Kockázatok elemzése, tesztprogramok írása
-- Nagyjából 25 oldalas dokumentum, aminek tartalma később felhasználható a szakdolgozatban/diplomamunkában
+- Kockázatok elemzése
+- **Tesztprogramok** írása, deszkamodell készítése (a cél, a technikai kockázatok minimalizálása: célszerű a legnehezebb vagy a legkevésbé ismert részfeladattal kezdeni, hogy ez ne a következő félévre maradjon) 
+- Nagyjából **25 oldalas dokumentum**, aminek tartalma később felhasználható a szakdolgozatban/diplomamunkában
 
 # Második félév
 - Szakdolgozatkészítés II., Szakdolgozati konzultáció II. és Diplomatervezés II. `NGB_IN092_2`, `GKLB_INTM097` és `NGB_IN093_2`
-- Programírás és tesztelés
-- A dolgozat végső megfogalmazása, elkészítése
+- **Programírás** és **tesztelés**
+- A **dolgozat végső megfogalmazása**, elkészítése
 - A leírtak pontosítása, formai megoldások véglegesítése, a tanszéki követelmények maradéktalan betartása
 - A dolgozat elektronikus formában történő rögzítése, nyomtatása, köttetése, leadása
 - A dolgozat terjedelme (melléklet nélkül) 50–70 oldal. *(2022-es információ, a hivatalos mindig a tanszéki honlapon)*
 
 # Linkek
-- Informatika Tanszék honlapja: http://it.sze.hu/
-- Informatika Tanszék / diplomatervezés: http://it.sze.hu/diplomatervezes
+- Informatika Tanszék (I.T.) honlapja: [it.sze.hu](http://it.sze.hu/)
+- Informatika Tanszék / diplomatervezés: [it.sze.hu/diplomatervezes](http://it.sze.hu/diplomatervezes)
